@@ -1,0 +1,87 @@
+
+body {
+    background-color: plum;
+}
+h2 {
+    text-decoration: underline;
+    font-style: italic;
+}
+h3 {
+    font-style: italic;
+}
+
+p {
+    font-size: 16pt;   
+}
+}
+ ol {
+    font-style:italic;
+ }
+ a {
+    color: purple;
+ }
+ 
+ #name {
+    font-size: 35pt;
+ }
+
+ #welcome {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .info {
+    font-style: normal;
+    font-size: 20pt;
+ }
+
+ #info {
+    color: red;
+ }
+
+ #div1{
+    background-color: white;
+ }
+ #div2{
+    background-color: powderblue;
+    display: inline-block;
+ }
+ #div3{
+    background-color: aqua;
+    display: inline-flexbox;   
+ }
+ #div4{
+    background-color: peru;
+ }
+ #div1 #div2 #div3 #div4 {
+    border: dashed;
+    position: relative;
+ }
+form {
+    padding: 8px;
+    background-color: white;
+    border-style: solid;
+    border-color: purple;
+    font-weight: 900px;
+    width: 20%;
+    height: auto;
+ }
+ input[type=button] {
+    color: black;
+    padding: 4px;  
+ }
+ input[type=button]:hover {
+    border: solid;
+    background-color: yellow;
+ }
+ input[type=text]:focus {
+    color: black;
+    background-color: yellow;
+    width:50%;
+    transition: 2s;
+ }
+ img {
+    position: relative;
+    ba
+ }
+ img:hover {
+    opacity: 0.5;
+  }
